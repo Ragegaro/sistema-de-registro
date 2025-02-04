@@ -5,3 +5,6 @@
 Para ejecutar el sistema,  debes poner :
 
 ``` prueba ```
+
+
+sistema de registro 2 
